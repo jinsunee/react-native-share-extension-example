@@ -9,7 +9,7 @@ https://github.com/alinz/react-native-share-extension
 
 ## RN 0.61 이상 버전
 
-README.md 에 있는대로 하면 에러가 생겼고 이에 관한 [이슈](https://github.com/alinz/react-native-share-extension/issues/182)를 참고하여 한국어로 쉽게 풀어쓴 글을 작성해보았습니다.
+README.md 에 있는대로 하면 0.61.0 이상 버전에서 버그가 생겨는 이슈가 있습니다. 이에 관한 [이슈](https://github.com/alinz/react-native-share-extension/issues/182)를 참고하여 한국어로 쉽게 풀어쓴 글을 작성해보았습니다.
 https://www.notion.so/RN-0-61-react-native-share-extension-316fa295bfd944e2ae5b84892fe3a1b7
 
 ## References
